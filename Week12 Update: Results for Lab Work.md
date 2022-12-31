@@ -5,6 +5,7 @@ From the last update (Week 11), two virtual servers were created on Digital Ocea
 <img width="943" alt="Droplets" src="https://user-images.githubusercontent.com/83463641/210149110-2b09cf42-52c8-439b-a003-33c9d51c099d.PNG">
 
 ### Steps
+The following steps were taken to successfully deploy a laravel application using Ansible configuration management tool.
 
 #### 1. I SSH into the control node and created a new user with sudo previledges
 <img width="755" alt="1  Create new user and assign the user sudo previledges" src="https://user-images.githubusercontent.com/83463641/210149147-74a6c7c8-b518-4552-81ea-44edcd15e9c0.PNG">
