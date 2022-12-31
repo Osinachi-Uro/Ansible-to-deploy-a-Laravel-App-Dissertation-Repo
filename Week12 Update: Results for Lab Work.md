@@ -39,7 +39,7 @@ The following steps were taken to successfully deploy a laravel application usin
 #### 8. Below are screenshots of the Laravel Application successfully deployed
 <img width="906" alt="Laravel page displayed" src="https://user-images.githubusercontent.com/83463641/210149653-a9935592-6adc-4f3c-b0f0-4377b12dd7b2.PNG">
 
-#### 9. Below are screenshots of the Laravel Application successfully deployed and web page secured using ssl
+#### 9. Below are screenshots of the Laravel Application successfully deployed, the web page secured using ssl and a domain name (osinachiuro.me) assigned to the web page.
 <img width="896" alt="Secured Laravel Page displayed" src="https://user-images.githubusercontent.com/83463641/210149686-76e7b50e-234a-48d4-8e78-e05dffaa7913.PNG">
 
 ### Thank you!
